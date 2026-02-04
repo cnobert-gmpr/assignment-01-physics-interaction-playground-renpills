@@ -1,0 +1,25 @@
+# Unity generated folders (ignore at any depth)
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]serSettings/
+
+# Crash and memory reports
+**/[Mm]emoryCaptures/
+**/sysinfo.txt
+
+# OS junk
+**/.DS_Store
+**/Thumbs.db
+
+# IDE files
+**/.vs/
+**/.vscode/
+**/*.csproj
+**/*.sln
+**/*.user
+**/*.unityproj
+**/.idea/
